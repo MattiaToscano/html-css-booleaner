@@ -1,0 +1,22 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+}
+
+header
+        {background-color:rgb(60, 185, 223);
+        background-image: url("./img/pattern.png");
+        background-size: 200px; 
+        padding-top: 25px;
+}
+
+.header-logo{
+            height:45px;
+            width:auto;;
+}
+
+
+
+
+
