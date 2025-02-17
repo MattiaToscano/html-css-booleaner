@@ -42,11 +42,39 @@ header
 }
 
 
-
-
 ul{
     padding-left: 20px;
-    list-style-type: circle;
     padding-bottom: 30px;
 }
+
+#tabella{
+    width: 100%;
+
+}
+
+.prime-2-colonne{
+            width: 25%;
+
+}
+
+
+.terza-colonna{
+            width: 50%;
+}
+
+
+th , td {
+    text-align:left;
+}
+
+th{
+    background-color: #1CABE4;
+    color: aliceblue;
+}
+
+.riga-blu{
+        background-color: #B1E6F2;
+}
+
+
 
