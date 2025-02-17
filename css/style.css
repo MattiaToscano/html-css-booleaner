@@ -1,0 +1,121 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+}
+
+header
+        {background-color:rgb(60, 185, 223);
+        background-image: url("../img/pattern.png");
+        background-size: 300px; 
+        padding-top: 25px;
+        margin-left: 5px;
+}
+
+.header-logo{
+            height:45px;
+            width:200px;;
+}
+ 
+.sottotitolo{
+            color: rgb(124, 125, 125);
+}
+
+#the-booleaner{
+            color:blue
+}
+
+.immagini-titolo{
+                padding-top: 20px;
+}
+
+.intestazione-immagini-titolo{
+                        font-size: 12px;
+                        padding-bottom: 20px;
+                        margin-left: 10px;
+}
+
+#evidenziatore1{
+                background-color: yellow;
+}
+
+#evidenziatore2{
+                background-color: yellow;
+                
+}
+.spazio-paragrafo{
+                padding-top: 20px;
+                padding-bottom: 20px;
+                
+}
+
+.spazio{
+        margin-left: 10px;
+
+}
+
+ul{
+    padding-left: 20px;
+    padding-bottom: 30px;
+    margin: 5px;
+}
+
+#tabella{
+    width: 100%;
+    margin: 5px;
+
+}
+
+.prime-2-colonne{
+            width: 25%;
+
+}
+
+
+.terza-colonna{
+            width: 50%;
+}
+
+
+th , td {
+    text-align:left;
+    
+}
+
+th{
+    background-color: #1CABE4;
+    color: aliceblue;
+    
+}
+
+.riga-blu{
+        background-color: #B1E6F2;
+}
+
+.Potrebbero-interessarti{
+    color:#747474;
+    padding-top: 30px;
+    margin: 5px;
+}
+
+.sfondo-primo-lorem{
+                background-image: url(../img/monitor.jpg);
+                background-repeat:no-repeat;
+                height: 200px; 
+                font-weight: 900;
+                font-size: 1.75rem;
+                color: antiquewhite;
+                padding: 10px;
+                margin: 5px;
+}
+
+.sfondo-secondo-lorem{
+                    background-image: url(../img/graph.jpg); 
+                    background-repeat:no-repeat;
+                    height: 200px;  
+                    font-weight: 900;
+                    font-size: 1.75rem;
+                    color: antiquewhite;
+                    padding: 10px;
+                    margin: 5px;
+}
