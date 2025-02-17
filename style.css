@@ -7,16 +7,46 @@
 header
         {background-color:rgb(60, 185, 223);
         background-image: url("./img/pattern.png");
-        background-size: 200px; 
+        background-size: 300px; 
         padding-top: 25px;
 }
 
 .header-logo{
             height:45px;
-            width:auto;;
+            width:200px;;
+}
+ 
+.sottotitolo{
+            color: rgb(124, 125, 125);
+}
+
+#the-booleaner{
+            color:blue
+}
+
+.immagini-titolo{
+                padding-top: 20px;
+}
+
+.intestazione-immagini-titolo{
+                        font-size: 12px;
+                        padding-bottom: 20px;
+}
+
+#evidenziatore1{
+                background-color: yellow;
+}
+
+.spazio-paragrafo{
+                padding-top: 30px;
 }
 
 
 
 
+ul{
+    padding-left: 20px;
+    list-style-type: circle;
+    padding-bottom: 30px;
+}
 
